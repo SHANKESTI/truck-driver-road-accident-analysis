@@ -18,8 +18,8 @@ This project aims to analyze road accident data related to truck drivers using P
 - Jupyter Notebook
 
 ## 👥 Team Members
-- [Your Name](https://github.com/SHANKESTI)  
-- [Teammate Name](https://github.com/gaurimk)  
+- [SHANTVEER KESTI](https://github.com/SHANKESTI)  
+- [GAURI M K](https://github.com/gaurimk)  
 *(Contributed equally to this project)*
 
 ## 📊 Key Findings
